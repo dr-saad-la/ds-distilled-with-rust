@@ -1,6 +1,6 @@
 # Data Science Distilled with Rust
 
-[![Build Status](https://github.com/dr-saad-la/ds-distilled-with-rust/actions/workflows/build.yml/badge.svg)](https://github.com/dr-saad-la/ds-distilled-with-rust/actions)
+[![Build Status](https://github.com/dr-saad-la/ds-distilled-with-rust/actions/workflows/mdbook.yml/badge.svg)](https://github.com/dr-saad-la/ds-distilled-with-rust/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/dr-saad-la/ds-distilled-with-rust)](https://github.com/dr-saad-la/ds-distilled-with-rust/issues)
 [![GitHub stars](https://img.shields.io/github/stars/dr-saad-la/ds-distilled-with-rust?style=social)](https://github.com/dr-saad-la/ds-distilled-with-rust/stargazers)
