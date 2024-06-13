@@ -1,1 +1,9 @@
 /book
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+.jupyter/
+.ipython/
