@@ -1,0 +1,11 @@
+[package]
+name = "dsd"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+array = "0.0.1"
+assert_cmd = "2.0.14"
+csv = "1.3.0"
+linfa = "0.7.0"
+polars = "0.40.0"
